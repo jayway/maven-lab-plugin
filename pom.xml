@@ -16,7 +16,7 @@
 	<groupId>com.jayway.maven.plugins.lab</groupId>
 	<artifactId>maven-lab-plugin</artifactId>
 	<packaging>maven-plugin</packaging>
-	<version>1.0.2-SNAPSHOT</version>
+	<version>1.0.1-SNAPSHOT</version>
 	<name>maven-lab-plugin Maven Mojo</name>
 	<url>http://github.com/jayway/maven-lab-plugin</url>
 	<description>
@@ -71,13 +71,13 @@
 	</contributors>
 	<distributionManagement>
 		<repository>
-			<id>oss.sonatype.org-jayway-staging</id>
+			<id>sonatype-nexus-staging</id>
 			<name>OpenSource Release Staging on Sonatype.org</name>
 			<url>http://oss.sonatype.org/service/local/staging/deploy/maven2/</url>
 		</repository>
 		<snapshotRepository>
 			<uniqueVersion>true</uniqueVersion>
-			<id>oss.sonatype.org-jayway-snapshots</id>
+			<id>sonatype-nexus-snapshots</id>
 			<name>OpenSource Snapshots on Sonatype.org</name>
 			<url>https://oss.sonatype.org/content/repositories/jayway-snapshots/</url>
 			<layout>default</layout>

@@ -1,4 +1,4 @@
-[![Build Status](https://secure.travis-ci.org/ulsa/maven-lab-plugin.png)](http://travis-ci.org/ulsa/maven-lab-plugin)
+[![Build Status](https://secure.travis-ci.org/jayway/maven-lab-plugin.png)](http://travis-ci.org/jayway/maven-lab-plugin)
 
 # What is maven-lab-plugin?
 

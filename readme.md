@@ -1,4 +1,6 @@
-[![Build Status](https://secure.travis-ci.org/jayway/maven-lab-plugin.png)](http://travis-ci.org/jayway/maven-lab-plugin)
+Travis CI: [![Build Status](https://secure.travis-ci.org/jayway/maven-lab-plugin.png)](http://travis-ci.org/jayway/maven-lab-plugin)
+
+BuildHive: [![Build Status](https://buildhive.cloudbees.com/job/jayway/job/maven-lab-plugin/badge/icon)](https://buildhive.cloudbees.com/job/jayway/job/maven-lab-plugin/)
 
 # What is maven-lab-plugin?
 
